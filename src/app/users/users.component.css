@@ -1,0 +1,36 @@
+.userContainer {
+    border: 1px solid lightslategrey;
+    padding: 15px;
+    margin: 10px;
+    width: 31%;
+}
+.userContainer div {
+    font-size: 14px;
+    padding: 5px 0;
+    word-break: break-all;
+}
+.container {
+    flex-wrap: wrap;
+}
+.inputSearch {
+    margin: 20px 0;
+    width: 25%;
+}
+.addBtn {
+    margin: 15px;
+    padding: 0 25px;
+}
+.form-group {
+    margin: 20px;
+}
+.deleteUser {
+    position: relative;
+}
+.deleteUser i {
+    color: red;
+    position: absolute;
+    right: 0;
+    top: 0;
+    font-size: 14px;
+    cursor: pointer;
+}

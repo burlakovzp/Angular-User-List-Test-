@@ -1,0 +1,11 @@
+.navbar {
+    background: lightsalmon;
+    height: 90px;
+}
+img.avatar {
+    height: 80px;
+    border-radius: 50%;
+}
+.title {
+    font-size: 3vw;
+}

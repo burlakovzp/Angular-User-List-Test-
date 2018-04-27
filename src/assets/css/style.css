@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css?family=Comfortaa');
+
+* {
+    font-family: 'Comfortaa', Arial, Helvetica, sans-serif;
+} 
+
+.preloader {
+    height: 100%;
+}
+.preloader .wrapper img {
+    width: auto;
+    height: 10%;
+    transform: translate(-50%,-50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+}
+.preloader .wrapper .err404 {
+    height: 100%;
+}
